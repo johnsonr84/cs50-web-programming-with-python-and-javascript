@@ -1,4 +1,3 @@
-# cs50-web-programming-with-python-and-javascript
 <h1 align="center"><a href="https://github.com/johnsonr84/cs50-web-programming-with-python-and-javascript">Web Programming with Python and JavaScript 👨‍💻 </a></h1>
 
 ## Description
