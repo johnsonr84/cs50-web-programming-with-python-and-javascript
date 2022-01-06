@@ -66,7 +66,7 @@ HTML, CSS, Git, Python, Django, SQL, Models, Migrations, JavaScript, User Interf
 
 ## Credits
 
-Me, myself and Ireene
+Me, myself and Irene
 
 ## License
 
